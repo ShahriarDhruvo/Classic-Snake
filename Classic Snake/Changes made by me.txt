@@ -1,0 +1,9 @@
+Changes made by me in this game :
+
+1.I changed the text style of "snake".
+2.I added "Select snake skin"
+3.I recreated the window in the middle of the screen & also created a flexible window to fit any computer's screen in fullscreen.
+4.When the game is paused it now shows "PAUSED" text.
+5.In menu I make it more visible and change color and text style and also text a bit.
+6.Made the radius of the bonus point bigger!
+7.
